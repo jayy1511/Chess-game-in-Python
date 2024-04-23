@@ -7,7 +7,7 @@ This is a simple command-line based Chess game implemented in Python. It include
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/jayy1511/Chess-game-in-Python?git
+    git clone https://github.com/jayy1511/Chess-game-in-Python.git
     ```
 
 2. Navigate to the project directory:
